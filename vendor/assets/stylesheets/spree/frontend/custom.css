@@ -1,0 +1,31 @@
+.container{
+  background-color: white;
+}
+#spree-header {
+  background: white;
+}
+#spree-header #header {
+  background-color: white;
+}
+
+
+#spree-header .nav a {
+    color: black;
+}
+
+#spree-header #logo {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+
+.btn-success:hover, .btn-success:active, .btn-success:focus {
+  color: purple !important;
+  background-color: black !important;
+  border-color: black !important;
+}
